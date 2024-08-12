@@ -1,0 +1,309 @@
+{
+  "A": [
+    {
+      "name": "Aruna Asaf Ali",
+      "image": "images/Aruna_Asaf_Ali.jpg",
+      "description": "An Indian freedom fighter and a prominent figure in the Quit India Movement. She is known for her courageous role in leading protests and organizing resistance against British colonial rule.",
+      "link":"https://en.wikipedia.org/wiki/Aruna_Asaf_Ali"
+    },
+    {
+      "name": "Aurobindo Ghosh",
+      "image": "images/Sri_aurobindo.jpg",
+      "description": "A philosopher, poet, and nationalist who was an early leader of the Indian independence movement. He was also a key figure in the spiritual and philosophical revival of India."
+    ,"link":"https://en.wikipedia.org/wiki/Aurobindo_Ghosh"
+    },
+    {
+      "name": "Alluri Sitarama Raju",
+      "image": "images/alluri-sitarama-raju.jpg",
+      "description":"Alluri Sitarama Raju was a revolutionary leader in India’s struggle for independence, known for leading the Rampa Rebellion against British rule in the 1920s. He is celebrated for his guerrilla warfare tactics and his fight for the rights of tribal people in Andhra Pradesh."
+    ,"link":"https://en.wikipedia.org/wiki/Alluri_Sitarama_Raju"
+    }
+
+  ],
+  "B": [
+    {
+      "name": "Bhagat Singh",
+      "image": "images/bhagat-singh.jpeg",
+      "description": "A revolutionary freedom fighter known for his radical approach and bravery. He played a key role in the struggle for independence and is remembered for his sacrifice and commitment to the cause."
+   ,"link":"https://en.wikipedia.org/wiki/Bhagat_Singh"
+    },
+    {
+      "name": "Bipin Chandra Pal",
+      "image": "images/bipin.jpeg",
+      "description": "An influential nationalist leader and one of the key members of the Lal-Bal-Pal trio. He advocated for radical approaches to gain independence and was a strong supporter of Swadeshi movement."
+    ,"link":"https://en.wikipedia.org/wiki/Bipin_Chandra_Pal"
+    },
+    {
+      "name": "Bal Gangadhar Tilak",
+      "image": "images/Bal-Gangadhar-Tilak.jpg",
+      "description":"Bal Gangadhar Tilak was a prominent Indian nationalist, social reformer, and freedom fighter, often hailed as the 'Father of Indian Unrest'. He was a key leader in the Indian independence movement, advocating for self-rule and Swadeshi (self-reliance)."
+    ,"link":"https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak"
+    }
+
+  ],
+  "C": [
+    {
+      "name": "Chandra Sekhar Azad",
+      "image": "images/Chandrasekhar_Azad.jpg",
+      "description": "A prominent revolutionary who continued to fight against British rule even after his comrades were captured. He is celebrated for his relentless fight for independence and ultimate sacrifice."
+    ,"link":"https://en.wikipedia.org/wiki/Chandra_Shekhar_Azad"
+    },
+    {
+      "name": "Chittranjan Das",
+      "image": "images/Chittaranjan_Das.jpg",
+      "description": "A leading lawyer and freedom fighter, he was a major proponent of the non-cooperation movement and played a significant role in the Indian independence struggle."
+    ,"link":"https://en.wikipedia.org/wiki/Chittaranjan_Das"
+    }
+  ],
+  "D": [
+    {
+      "name": "Dadabhai Naoroji",
+      "image": "images/Dadabhai.jpeg",
+      "description": "Known as the 'Grand Old Man of India', he was a prominent leader in the Indian National Congress and an early advocate of the Indian independence movement."
+    ,"link":"https://en.wikipedia.org/wiki/Dadabhai_Naoroji"
+    },
+    {
+      "name": "Dhirendranath Sen",
+      "image": "images/Devendranath Sen.jpeg",
+      "description": "An influential freedom fighter and a key leader of the Indian independence movement, who actively participated in various political activities and campaigns."
+  ,"link":"https://www.wikidata.org/wiki/Q13058261"
+    }
+  ],
+  "E": [
+    {
+      "name": "E.V. Ramasamy (Periyar)",
+      "image": "images/e-v-ramasamy-periyar.jpg",
+      "description": "A social reformer and a staunch advocate of self-respect and rationalism. He is known for his work in promoting social justice and fighting against caste discrimination."
+    ,"link":"https://en.wikipedia.org/wiki/E._V._Ramasamy"
+    }
+  ],
+  "F": [
+    {
+      "name": "Feroz Shah Mehta",
+      "image": "images/Pherozeshah-Mehta.jpg",
+      "description": "A prominent leader in the Indian National Congress and a strong advocate for Indian self-rule. He was also known for his contributions to the legal and political arenas."
+    ,"link":"https://en.wikipedia.org/wiki/pherozeshah_Mehta"
+    }
+  ],
+  "G": [
+    {
+      "name": "Gopal Krishna Gokhale",
+      "image": "images/gopal.jpg",
+      "description": "A mentor to Mahatma Gandhi and a leading figure in the Indian independence movement, known for his moderate views and emphasis on social reforms."
+    ,"link":"https://en.wikipedia.org/wiki/Gopal_Krishna_Gokhale"
+    },
+    {
+      "name": "Ganesh Vasudev Mavalankar",
+      "image": "images/Ganesh-Vasudev-Mavalankar.jpg",
+      "description": "An influential leader who contributed significantly to the independence movement and played a key role in the formation of the Indian Parliament."
+    ,"link":"https://en.wikipedia.org/wiki/Ganesh_Vasudev_Mavalankar"
+    }
+  ],
+  "H": [
+    {
+      "name": "Harilal Gandhi",
+      "image": "images/harilal.jpeg",
+      "description": "The eldest son of Mahatma Gandhi, who was an advocate for social and political reforms but had a complicated relationship with his father's ideologies."
+    ,"link":"https://en.wikipedia.org/wiki/Harilal_Gandhi"
+    },
+    {
+      "name": "Hemu Kalani",
+      "image": "images/Hemu-Kalani11.jpg",
+      "description": "A young freedom fighter and a leader in the Quit India Movement, known for his bravery and ultimate sacrifice for the cause of independence."
+    ,"link":"https://en.wikipedia.org/wiki/Hemu_Kalani"
+    }
+  ],
+  "I": [
+    {
+      "name": "Indira Gandhi",
+      "image": "images/IndiraGandhi.png",
+      "description": "The first and, to date, the only female Prime Minister of India, who played a crucial role in shaping modern India and furthering the cause of social and economic reforms."
+    ,"link":"https://en.wikipedia.org/wiki/Indira_Gandhi"
+    },
+    {
+      "name": "Ishwar Chandra Vidyasagar",
+      "image": "images/Ishwarchandra_Vidyasagar.jpg",
+      "description": "A renowned educator, reformer, and philanthropist who advocated for the rights of women and worked towards the social upliftment of the Indian society."
+    ,"link":"https://en.wikipedia.org/wiki/Ishwar_Chandra_Vidyasagar"
+    }
+  ],
+  "J": [
+    {
+      "name": "Jawaharlal Nehru",
+      "image": "images/Jnehru.jpg",
+      "description": "The first Prime Minister of India, a central figure in Indian politics both before and after independence, and a key leader in the Indian freedom struggle."
+   ,"link":"https://en.wikipedia.org/wiki/Jawaharlal_Nehru"
+    },
+    {
+      "name": "Jatin Das",
+      "image": "images/Jatindranath_Das_alias_Khedu.jpg",
+      "description": "A revolutionary freedom fighter known for his role in the struggle against British rule and his hunger strike that drew significant attention to the cause."
+    ,"link":"https://en.wikipedia.org/wiki/Jatin_Das"
+    }
+  ],
+  "K": [
+    {
+      "name": "Kasturba Gandhi",
+      "image": "images/Kasturba.jpg",
+      "description": "The wife of Mahatma Gandhi and an activist in her own right, she supported and participated in various movements for social and political reforms."
+    ,"link":"https://en.wikipedia.org/wiki/Kasturba_Gandhi"
+    }
+  ],
+  "L": [
+    {
+      "name": "Lala Lajpat Rai",
+      "image": "images/Lala_Lajpat_Rai.jpg",
+      "description": "An influential leader in the Indian independence movement, known for his contributions to the struggle for independence and his advocacy for social reforms."
+    ,"link":"https://en.wikipedia.org/wiki/Lala_Lajpat_Rai"
+    },
+    {
+      "name": "Lal Bahadur Shastri",
+      "image": "images/Lal_Bahadur_shastri.jpg",
+      "description": "The second Prime Minister of India, known for his role in promoting the White Revolution and his leadership during the Indo-Pakistani War of 1965."
+    ,"link":"https://en.wikipedia.org/wiki/Lal_Bahadur_Shastri"
+    }
+  ],
+  "M": [
+    {
+      "name": "Mahatma Gandhi",
+      "image": "images/Mahatma-Gandhi.jpg",
+      "description": "A central figure in the Indian independence movement, known for his philosophy of nonviolent resistance and his role in leading India to independence from British rule."
+    ,"link":"https://en.wikipedia.org/wiki/Mahatma_Gandhi"
+    },
+    {
+      "name": "Muhammad Ali Jinnah",
+      "image": "images/Jinnah.jpg",
+      "description":"Muhammad Ali Jinnah was a key political leader and the founder of Pakistan. He played a central role in the creation of Pakistan as a separate nation for Muslims in the Indian subcontinent and served as its first Governor-General."
+    ,"link":"https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah"
+    }
+
+  ],
+  "N": [
+    {
+      "name": "Netaji Subhas Chandra Bose",
+      "image": "images/Subhas_Chandra_Bose.jpg",
+      "description": "A prominent leader who led the Indian National Army against British forces. His leadership and radical approach played a significant role in India's struggle for independence."
+    ,"link":"https://en.wikipedia.org/wiki/Subhas_Chandra_Bose"
+    },
+    {
+      "name":"Nana Saheb",
+      "image":"images/nana_saheb.jpeg",
+      "description":" A pivotal leader in the Indian Rebellion of 1857, known for his role in challenging British rule. As the adopted son of the last Maratha Peshwa, he sought to restore the Maratha Empire."
+,"link":"https://en.wikipedia.org/wiki/Nana_Saheb_Peshwa_II"
+    }
+  ],
+  "O": [
+    {
+      "name": "O.P. Sharma",
+      "image": "images/om_prakash.jpg",
+      "description": "A notable freedom fighter whose contributions and efforts in the Indian independence movement played a part in the larger struggle for freedom."
+    ,"link":"https://en.wikipedia.org/wiki/Om_Prakash_Sharma_(writer)"
+    }
+  ],
+  "P": [
+    {
+      "name": "P Subbarayan",
+      "image": "images/p_subbanarayan.png",
+      "description": "A prominent leader and activist known for his contributions to the independence movement and his role in various political activities."
+    ,"link":"https://en.wikipedia.org/wiki/P._Subbarayan"
+    }
+  ],
+  "Q": [
+    {
+      "name": "Qazi Muhammad Iqbal",
+      "image": "images/muhammad.jpg",
+      "description": "A prominent leader in the Indian independence movement, known for his advocacy and contributions to the cause of Indian self-rule."
+    ,"link":"https://en.wikipedia.org/wiki/Qazi_Muhammad_Iqbal"
+    }
+  ],
+  "R": [
+    {
+      "name": "Rani Lakshmibai",
+      "image": "images/Rani_of_jhansi.jpg",
+      "description": "The queen of the princely state of Jhansi who became a symbol of resistance against British rule during the 1857 revolt."
+    ,"link":"https://en.wikipedia.org/wiki/Rani_Lakshmibai"
+    },
+    {
+      "name": "Rajendra Prasad",
+      "image": "images/rajendra.jpg",
+      "description": "The first President of India, known for his role in the freedom struggle and his contributions to shaping the newly independent nation."
+    ,"link":"https://en.wikipedia.org/wiki/Rajendra_Prasad"
+    }
+  ],
+  "S": [
+    {
+      "name": "Vallabhbhai,Sardar Patel",
+      "image": "images/patel.jpeg",
+      "description": "A key figure in the Indian independence movement and the first Deputy Prime Minister of India, known for his efforts in integrating princely states into India."
+    ,"link":"https://en.wikipedia.org/wiki/Vallabhbhai_Patel"
+    },
+    {
+    "name": "Sarojini Naidu",
+      "image": "images/saroji.jpg",
+      "description":"Sarojini Naidu, also known as the Nightingale of India, was a renowned poet, freedom fighter, and the first woman to become the president of the Indian National Congress. She played a key role in India's struggle for independence and later served as the first woman Governor of an Indian state."
+    ,"link":"https://en.wikipedia.org/wiki/Sarojini_Naidu"
+    }
+  ],
+  "T": [
+    {
+      "name": "Tirupur Kumaran",
+      "image": "images/Tirupur_kumaran.jpg",
+      "description": "A young revolutionary known for his role in the Indian independence movement and his martyrdom during a protest against British rule."
+    ,"link":"https://en.wikipedia.org/wiki/Tirupur_Kumaran"
+    },
+    {
+      "name": "Tatya Tope",
+      "image": "images/Tantiatope.jpg",
+      "description":"Tatya Tope was a prominent leader in the Indian Rebellion of 1857 and one of its most skilled military commanders. Known for his guerrilla warfare tactics, he played a crucial role in the fight against British forces across North India."
+    ,"link":"https://en.wikipedia.org/wiki/Tatya_Tope"
+    }
+  ],
+  "U": [
+    {
+      "name": "Usha Mehta",
+      "image": "images/Usha_Mehta.png",
+      "description": "An active participant in the Quit India Movement and a prominent freedom fighter who played a key role in underground activities and dissemination of information."
+    ,"link":"https://en.wikipedia.org/wiki/Usha_Mehta"
+    }
+  ],
+  "V": [
+    {
+      "name": "V.O. Chidambaram Pillai",
+      "image": "images/V._O._Chidambaram_Pillai.jpg",
+      "description": "A prominent leader in the Indian freedom struggle, known for his work in the Swadeshi movement and his efforts in promoting Indian industries."
+    ,"link":"https://en.wikipedia.org/wiki/V._O._Chidambaram_Pillai"
+    }
+  ],
+  "W": [
+    {
+      "name": "Womesh Chunder Bonnerjee",
+      "image": "images/WCBonnerjee.jpg",
+      "description": "A prominent leader in the Indian National Congress and a key figure in the early stages of the Indian independence movement."
+    ,"link":"https://en.wikipedia.org/wiki/Womesh_Chunder_Bonnerjee"
+    }
+  ],
+  "X": [
+    {
+      "name": "Jose Francisco Xavier Antonio Martins",
+      "image": "images/Jose_Francisco_Xavier_Antonio.jpg",
+      "description": "Alumni of St. Xavier's College who played significant roles in the Indian independence movement, contributing in various capacities."
+    ,"link":"https://en.wikipedia.org/wiki/Jose_Francisco_Xavier_Antonio_Martins"
+    }
+  ],
+  "Y": [
+    {
+      "name": "Yusuf Meherally",
+      "image": "images/YusufMeherally.jpg",
+      "description": "A prominent leader in the Indian independence movement, known for his efforts in organizing labor strikes and his contributions to the freedom struggle."
+    ,"link":"https://en.wikipedia.org/wiki/Yusuf_Meherally"
+    }
+  ],
+  "Z": [
+    {
+      "name": "Zakir Husain",
+      "image": "images/zakir.jpg",
+      "description": "Dr. Zakir Husain was an Indian freedom fighter, educator, and the first Muslim President of India, known for his contributions to education and national integration.."
+    ,"link":"https://en.wikipedia.org/wiki/Zakir_Husain"
+    }
+  ]
+}

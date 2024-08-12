@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+
+}
+
+.card {
+    position: relative;
+    overflow: hidden;
+}
+
+.card img {
+    transition: transform 0.3s ease;
+    object-fit: contain;
+
+
+}
+
+.card:hover img {
+    transform: scale(1.1);
+
+}
+
+.card-body {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    transform: translateY(100%);
+    transition: transform 0.3s ease;
+    padding: 15px;
+}
+
+.card:hover .card-body {
+    transform: translateY(0);
+}
+
+@media (max-width: 500px) {
+    .card {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+
+    /* Make the navbar brand image smaller */
+    .navbar-brand img {
+        width: 40px;
+        height: 30px;
+    }
+
+    /* Make the search input smaller */
+    .form-control {
+        width: 2000px;
+        font-size: 14px;
+    }
+
+    /* Make the freedom fighters section full width */
+    #freedom-fighters {
+        width: 100%;
+        padding: 20px;
+    }
+
+    /* Make the footer smaller */
+    footer {
+        font-size: 12px;
+        padding: 10px;
+    }
+
+
+
+}
+
+#logo {
+    object-fit: contain;
+    mix-blend-mode: color-dodge;
+}
+
+#span {
+    color: rgb(14, 13, 13);
+    text-align: center;
+}
+
+body {
+    background-image: url(images/bg.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card {
+    background-image: url(images/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+body {
+    overflow-x: hidden;
+}
